@@ -1,4 +1,4 @@
 {
-  "version": "1.0.16",
-  "update_details": "1.新增一个简单的弹窗，后续待优化"
+  "version": "1.0.17",
+  "update_details": "1.优化dayjs"
 }

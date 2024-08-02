@@ -1,4 +1,4 @@
 {
-  "version": "1.0.17",
-  "update_details": "1.优化dayjs"
+  "version": "1.0.18",
+  "update_details": "1.修复白屏问题"
 }

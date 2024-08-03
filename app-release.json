@@ -1,4 +1,4 @@
 {
-  "version": "1.0.18",
-  "update_details": "1.修复白屏问题"
+  "version": "1.0.19",
+  "update_details": "1.添加背景图\n2.测试沉浸式状态栏"
 }
